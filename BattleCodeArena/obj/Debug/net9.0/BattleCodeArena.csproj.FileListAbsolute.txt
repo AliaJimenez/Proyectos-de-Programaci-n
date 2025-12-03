@@ -1,0 +1,28 @@
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.AssemblyInfoInputs.cache
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.AssemblyInfo.cs
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.csproj.CoreCompileInputs.cache
+C:\Users\alian\Desktop\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.exe
+C:\Users\alian\Desktop\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.deps.json
+C:\Users\alian\Desktop\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.runtimeconfig.json
+C:\Users\alian\Desktop\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.dll
+C:\Users\alian\Desktop\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.pdb
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.dll
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\refint\BattleCodeArena.dll
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.pdb
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.genruntimeconfig.cache
+C:\Users\alian\Desktop\BattleCodeArena\obj\Debug\net9.0\ref\BattleCodeArena.dll
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.exe
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.deps.json
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.runtimeconfig.json
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.dll
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\bin\Debug\net9.0\BattleCodeArena.pdb
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.AssemblyInfoInputs.cache
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.AssemblyInfo.cs
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.csproj.CoreCompileInputs.cache
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.dll
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\refint\BattleCodeArena.dll
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.pdb
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\BattleCodeArena.genruntimeconfig.cache
+C:\Users\alian\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\2025-C2\FDP\BattleCodeArena\obj\Debug\net9.0\ref\BattleCodeArena.dll

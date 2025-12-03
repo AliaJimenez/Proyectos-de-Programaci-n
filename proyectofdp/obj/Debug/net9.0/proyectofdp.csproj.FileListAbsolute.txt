@@ -1,0 +1,14 @@
+C:\Users\alian\proyectofdp\bin\Debug\net9.0\proyectofdp.exe
+C:\Users\alian\proyectofdp\bin\Debug\net9.0\proyectofdp.deps.json
+C:\Users\alian\proyectofdp\bin\Debug\net9.0\proyectofdp.runtimeconfig.json
+C:\Users\alian\proyectofdp\bin\Debug\net9.0\proyectofdp.dll
+C:\Users\alian\proyectofdp\bin\Debug\net9.0\proyectofdp.pdb
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\proyectofdp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\proyectofdp.AssemblyInfoInputs.cache
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\proyectofdp.AssemblyInfo.cs
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\proyectofdp.csproj.CoreCompileInputs.cache
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\proyectofdp.dll
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\refint\proyectofdp.dll
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\proyectofdp.pdb
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\proyectofdp.genruntimeconfig.cache
+C:\Users\alian\proyectofdp\obj\Debug\net9.0\ref\proyectofdp.dll

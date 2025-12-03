@@ -1,0 +1,15 @@
+Ataque lógico|10|común
+Escudo contra errores de sintaxis|12|común
+Visión de depuración|8|rara
+Teletransporte de código|5|rara
+Reloj de sol|15|común
+Reloj de arena|10|común
+Transformación en pseudocódigo|14|común
+Lenguaje universal|11|rara
+Poder divino|3|legendaria
+Memoria expandida|9|rara
+Bloqueo de bugs menores|13|común
+Absorción de comentarios|16|común
+Modo fantasma|6|rara
+Conexión directa|4|legendaria
+Oido fino|7|rara

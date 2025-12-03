@@ -1,0 +1,15 @@
+Te permite repetir un intento de codificación sin penalización alguna.
+Reduce el impacto de advertencias al compilar tu código.
+Puedes leer código del invoker por 15 segundos y entenderlo como si fuera tuyo.
+Tienes la opcion de intercambiar por 10 segundos con alguien de la arena.
+Se te suman 15 segundos a tu cronometro.
+Se te suman 30 segundos a tu cronometro.
+Convierte cualquier lógica en pseudocódigo para facilitar la comprensión.
+Te permite usar cualquier lenguaje de programación durante tu turno.
+Permite realizar 1 preguntas al profesor o monitor sin penalidad.
+Los primeros dos errores el invoker debe señalarlos sin penalización.
+Ignora errores logicos.
+El invoker debe leerte al menos 2 comentarios de su codigo.
+La arena estara en total silencio, y solo se escuchara UNA voz y sera cuando pidas ayuda a cualquier persona de la sala.
+Puedes hacer una pregunta directamente a cualquier ia o pagina en linea.
+El invoker debera explicarte con palabras simples el codigo.
